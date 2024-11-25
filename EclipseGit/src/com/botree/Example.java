@@ -11,6 +11,7 @@ public class Example {
 		}
 
 		System.out.println(fact);
+		System.out.println("branch");
 	}
 
 }
